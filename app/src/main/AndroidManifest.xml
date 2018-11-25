@@ -15,7 +15,8 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".view.login.UserLoginActivity"
-            android:launchMode="singleTop">
+            android:launchMode="singleTop"
+            android:label="Sign in">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

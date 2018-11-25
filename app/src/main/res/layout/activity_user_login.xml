@@ -29,7 +29,7 @@
         android:text="at YorkU"
         android:textColor="@color/colorAccent"
         android:layout_gravity="right"
-        android:layout_marginEnd="50dp"/>
+        android:layout_marginEnd="77dp"/>
 
 
 
