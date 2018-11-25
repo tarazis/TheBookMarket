@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2118269361",
+    "firebase_url": "https://thebookmarket-85164.firebaseio.com",
+    "project_id": "thebookmarket-85164",
+    "storage_bucket": "thebookmarket-85164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2118269361:android:7bbd3ed9807f5f3d",
+        "android_client_info": {
+          "package_name": "tarazico.thebookmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2118269361-j3n6p9tm9jb6v99sekhp7fnc9knkoel5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tarazico.thebookmarket",
+            "certificate_hash": "03ef45c7c7c2bd667a929e6f94aa657d2b623bda"
+          }
+        },
+        {
+          "client_id": "2118269361-99bhprvqj9q59afv0a89b0q3jgpqugb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkv1i8y_iCijKwvRn5xeRsM4AzvY8wyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2118269361-99bhprvqj9q59afv0a89b0q3jgpqugb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
